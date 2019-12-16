@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "just test",
+  "main": "./test/main.js",
+  "dependencies": {
+    "electron": "^7.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --debug"
+  },
+  "author": "xpt",
+  "license": "ISC"
+}
